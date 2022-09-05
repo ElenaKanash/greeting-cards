@@ -1,1 +1,1 @@
-# Greeting-cards-React-
+# greeting cards project using React
