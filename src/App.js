@@ -1,6 +1,10 @@
+/* eslint-disable object-curly-spacing */
 
 const App = () => (
-  <div>highlight</div>
+  <>
+    <header />
+    <main />
+    <footer /></>
 
 );
 
