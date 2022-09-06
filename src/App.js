@@ -1,10 +1,13 @@
-/* eslint-disable object-curly-spacing */
+import Footer from './components/Footer';
+import Header from './components/Header';
+
 
 const App = () => (
   <>
-    <header />
+    <Header />
     <main />
-    <footer /></>
+    <Footer />
+  </>
 
 );
 
